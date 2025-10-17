@@ -1,0 +1,58 @@
+# Compiled source files
+*.o
+*.obj
+
+# Executable files
+a.out
+*.out
+*.exe
+
+# Ignore C executables (anywhere)
+*.out
+*.exe
+*.o
+a.out
+**/a.out
+**/*.out
+**/*.exe
+**/*.o
+
+# Libraries
+*.so
+*.dll
+*.dylib
+*.lib
+*.a
+
+# Debug and profiling files
+*.gch
+*.pch
+*.pdb
+*.mod
+*.gcda
+*.gcno
+*.gcov
+*.prof
+*.stackdump
+
+# Temporary or backup files
+*~
+*.swp
+*.tmp
+*.bak
+
+# Build or bin directories
+/build/
+/bin/
+/debug/
+/release/
+
+# macOS system files
+.DS_Store
+
+# VS Code / IDE configuration files
+.vscode/
+.idea/
+
+# Other auto-generated files
+*.log
