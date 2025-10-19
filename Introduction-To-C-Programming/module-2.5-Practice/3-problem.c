@@ -1,12 +1,9 @@
 // Problem Statement:
 // Multiple or not
 // Time Limit: 1 Seconds
-
 // Memory Limit: 2.93 MB
-
 // Statement
 // In this problem you will be given two integers a and b, you have to tell if one is the multiple of other. (a is the multiple of b or b is the multiple of a). 
-
 // Constraints
 //  1 <= a, b <= 10000
 // Input format

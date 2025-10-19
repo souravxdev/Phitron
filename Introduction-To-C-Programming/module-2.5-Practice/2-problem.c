@@ -1,15 +1,11 @@
 // Problem Statement:
 // 5 Marks for good hand writing
 // Time Limit: 1 Seconds
-
 // Memory Limit: 2.93 MB
-
 // Statement
 // In this problem you will be given an integer number N. You will have to add 5 with N and print it.
-
 // Constraints
 // - 1 <= N  <= 100
-
 // Input format
 // Input consists of an integer number N.
 // Output Format

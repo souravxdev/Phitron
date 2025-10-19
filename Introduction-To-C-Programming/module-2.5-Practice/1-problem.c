@@ -1,12 +1,9 @@
 // Problem Statement:
 // Zero or Non Zero
 // Time Limit: 1 Seconds
-
 // Memory Limit: 2.93 MB
-
 // Statement
 // In this problem you will be given an integer number N. Print "Zero" if the number is equals to 0 and "Non Zero" Otherwise.
-
 // Constraints
 // -1000 <= N <= 1000
 // Input format
