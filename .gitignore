@@ -6,7 +6,6 @@
 a.out
 *.out
 *.exe
-*.bin
 
 # Ignore C executables (anywhere)
 *.out
@@ -17,6 +16,8 @@ a.out
 **/*.out
 **/*.exe
 **/*.o
+*.bin
+**/*.bin
 
 
 # Libraries
@@ -42,7 +43,6 @@ a.out
 *.swp
 *.tmp
 *.bak
-.cph
 
 # Build or bin directories
 /build/
