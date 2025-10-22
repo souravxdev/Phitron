@@ -19,7 +19,6 @@ a.out
 *.bin
 **/*.bin
 
-
 # Libraries
 *.so
 *.dll
